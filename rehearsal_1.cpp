@@ -8,7 +8,7 @@ float  grade;
 
 cout<<"What is your name?: ";
 cin>>name;
-cout<<"What is your GPA: ";
+cout<<"What is your GPA?: ";
 cin>>grade;
 
 if(grade>=3.5){
@@ -16,7 +16,7 @@ if(grade>=3.5){
 }
 else
 {
-    cout<<"Try harder,"<<name<<"!!!";
+    cout<<"Try harder, "<<name<<"!!!";
 }
 
 
